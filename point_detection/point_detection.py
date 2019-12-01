@@ -53,12 +53,12 @@ if __name__ == "__main__":
    #show images in matplot   
    fig = plt.figure(figsize=(9,9))
    fig.add_subplot(1,2,1)
-   plt.title('Original img')
+   plt.title('Original image')
    plt.axis('off')
    plt.imshow(img, cmap='gray', interpolation='bicubic')
    
    fig.add_subplot(1,2,2)
-   plt.title('Original img')
+   plt.title('Point Detected image')
    plt.axis('off')
    plt.imshow(new_img, cmap='gray', interpolation='bicubic')
    
