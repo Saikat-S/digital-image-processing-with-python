@@ -1,4 +1,4 @@
-# Point Detection
+# Line Detection
 
 ## Theory
 Loading...

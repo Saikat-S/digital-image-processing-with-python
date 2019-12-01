@@ -1,4 +1,4 @@
-# Point Detection
+# Bit Plane Slicing
 
 ## Theory
 Loading...

@@ -1,4 +1,4 @@
-# Point Detection
+# Image Multiplication
 
 ## Theory
 Loading...

@@ -1,4 +1,4 @@
-# Point Detection
+# Brightness and Contrast Control
 
 ## Theory
 Loading...

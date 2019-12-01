@@ -1,4 +1,4 @@
-# Point Detection
+# Image Substraction
 
 ## Theory
 Loading...

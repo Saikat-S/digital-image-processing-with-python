@@ -1,4 +1,4 @@
-# Point Detection
+# Gray Level Slicing
 
 ## Theory
 Loading...
