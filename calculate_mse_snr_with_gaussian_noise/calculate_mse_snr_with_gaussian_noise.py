@@ -54,7 +54,7 @@ if __name__ == "__main__":
 
     mse = pixel_sum/total
 
-    snr = pixel_sum_sq/ pixel_sum
+    snr = 20 * np.log10(pixel_sum_sq/ pixel_sum)
 
     psnr_tmp = (255*255)/mse
 
