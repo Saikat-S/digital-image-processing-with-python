@@ -1,6 +1,6 @@
 # Digital Image Processing with Python
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/Saikat-S/digital-image-processing-with-python)](https://travis-ci.org/Saikat-S/digital-image-processing-with-python)
 
 
 
