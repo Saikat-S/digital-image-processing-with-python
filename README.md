@@ -1,4 +1,4 @@
-# digital-image-processing-with-python opencv2
+# Digital Image Processing with Python Opencv2
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
