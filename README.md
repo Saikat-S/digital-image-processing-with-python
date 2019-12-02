@@ -1,6 +1,6 @@
 # Digital Image Processing with Python
 
-[![Build Status](https://travis-ci.org/Saikat-S/digital-image-processing-with-python)](https://travis-ci.org/Saikat-S/digital-image-processing-with-python)
+[![Build Status](https://travis-ci.org/Saikat-S/digital-image-processing-with-python.svg?branch=master)](https://travis-ci.org/Saikat-S/digital-image-processing-with-python.svg?branch=master)
 
 
 
